@@ -6,5 +6,6 @@ public class GitClass {
         System.out.println("使用git进行版本控制");
         System.out.println("使用git进行版本控制");
 
+        System.out.println("git版本控制");
     }
 }
